@@ -8,7 +8,7 @@ Python Django rest example
 
 ### to run
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 python manage.py syncdb
 python manage.py makemigrations
 python manage.py migrate
